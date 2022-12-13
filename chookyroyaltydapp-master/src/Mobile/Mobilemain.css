@@ -1,0 +1,88 @@
+@media screen and (max-width: 412px) {
+  .table-para {
+    font-size: 13px !important;
+  }
+  .table-para-chooky {
+    font-size: 13px !important;
+  }
+}
+@media screen and (max-width: 480px) {
+  .table-para {
+    font-size: 13px !important;
+  }
+  .table-para-chooky {
+    font-size: 13px !important;
+  }
+  .design-font {
+    font-size: 40px !important;
+  }
+  .claim-bu {
+    font-size: 13px !important;
+    padding: 2px 20px !important;
+    font-weight: 700;
+  }
+}
+/* .row.main-new-table {
+  margin-top: 30px !important;
+} */
+.row.section-top {
+  margin-top: 55px !;
+  font-family: "Montserrat", Sans-serif;
+}
+.header-footer {
+  padding: 0rem 1rem;
+}
+button.claim-bu-mobile {
+  width: 80% !important;
+  display: block !important;
+  margin: 2rem auto 0rem !important;
+}
+.design-font-choo {
+  font-size: 2rem !important;
+  margin: 2rem 0rem;
+}
+@media screen and (min-width: 992px) {
+  button.btn.btn.btn-primary {
+    padding: 0.8rem 2rem !important;
+    font-size: 1rem !important;
+    width: 13rem;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .table-para {
+    font-size: 18px;
+  }
+  .header-footer {
+    font-size: 19px;
+  }
+  .font-design {
+    font-size: 50px;
+  }
+  .table-para-chooky {
+    font-size: 18px;
+  }
+  .claim-bu {
+    padding: 5px 20px;
+  }
+  .header-footer {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width: 912px) {
+  .claim-bu {
+    width: 60%;
+  }
+  .card1 {
+    width: 100%;
+  }
+}
+#button-claim {
+  width: 100% !important;
+
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  margin: 2rem 0rem !important;
+  height: 3rem !important;
+}

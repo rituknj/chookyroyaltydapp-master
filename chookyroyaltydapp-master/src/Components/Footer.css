@@ -1,0 +1,29 @@
+.element-img {
+  background-color: transparent !important;
+  background-image: linear-gradient(0deg, #263a4e 0%, #0e0a0b 73%) !important;
+  opacity: 0;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s !important;
+}
+.header-footer {
+  color: #fff;
+  text-align: center;
+}
+.element-img {
+  background-color: #04141a;
+  background-image: url("https://chooky-inu.com/wp-content/uploads/2022/10/Chooky-Home-2.png") !important;
+  /* background-position: bottom center; */
+  background-repeat: no-repeat !important;
+  /* background-size: 71% auto; */
+}
+.design-font {
+  color: #786a7400;
+  font-family: "Syncopate", Sans-serif;
+  font-size: 59px;
+  font-weight: 600;
+  letter-spacing: 10px;
+  -webkit-text-stroke-width: 2px;
+  stroke-width: 2px;
+  -webkit-text-stroke-color: #80ff86;
+  stroke: #80ff86;
+  text-align: center;
+}

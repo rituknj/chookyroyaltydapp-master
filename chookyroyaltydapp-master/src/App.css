@@ -1,0 +1,296 @@
+/* section {
+  background-color: #04141a;
+  background-image: url("https://chooky-inu.com/wp-content/uploads/2022/10/Chooky-Home-2.png") !important;
+  background-position: bottom center;
+  background-repeat: no-repeat !important;
+  background-size: 71% auto;
+} */
+/* .image-dog {
+  text-align: center;
+  display: block;
+} */
+img.imgwidth {
+  max-width: 100px;
+  cursor: pointer;
+}
+a.mslink {
+  text-decoration: none;
+  color: #68fccc;
+  font-size: 20px;
+}
+a.mslink:hover {
+  color: #68fccc;
+}
+.background {
+  background-color: transparent;
+  background-image: linear-gradient(0deg, #263a4e 0%, #0e0a0b 73%);
+  opacity: 0.75;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  min-height: 100vh;
+}
+.table-para {
+  font-size: 22px;
+  color: #fff;
+  font-family: "Montserrat", Sans-serif;
+}
+.table-para-chooky {
+  color: #fff;
+  margin-left: 10px;
+  font-size: 22px;
+  font-weight: 700;
+  font-family: "Montserrat", Sans-serif;
+}
+
+img.background {
+  object-fit: cover;
+  width: 100%;
+  height: 100vh;
+}
+.main-image {
+  background-image: linear-gradient(0deg, #263a4e 0%, #0e0a0b 73%);
+  opacity: 0.52;
+}
+.element-content {
+  min-height: 100vh;
+}
+.card1 {
+  border: 2px solid #68fccc;
+
+  height: 150px;
+  width: 100%;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 0 auto;
+  height: 90%;
+}
+.area {
+  text-align: center;
+}
+.claim-button {
+  text-align: center;
+}
+.claim-bu {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 17px;
+  font-weight: 900;
+  background-color: rgb(12, 24, 14, 0.7);
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #64fccc;
+  border-radius: 7px 7px 7px 7px;
+  box-shadow: 2px 2px 19px 0px #64fccc;
+  color: #fff;
+  padding: 10px 20px;
+  opacity: 0.7 !important;
+  margin-left: 8px;
+  /* max-width: 100px; */
+}
+button.claim-bu7 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 1rem;
+  font-weight: 900;
+  background-color: #0c180ec7;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  /* border-color: #64fccc; */
+  border-radius: 7px 7px 7px 7px;
+  /* box-shadow: 2px 2px 19px 0px #64fccc; */
+  color: #fff;
+  padding: 10px 20px;
+  height: 3rem;
+  margin-top: 2rem;
+  /* margin-left: 8px; */
+  width: 100%;
+  opacity: 0.4;
+  cursor: no-drop !important;
+}
+p.table-para5 {
+  color: #ffff;
+  margin-left: 1.4rem;
+}
+.chooky-button {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 17px;
+  font-weight: 900;
+  background-color: transparent !important;
+  border-color: #64fccc;
+  box-shadow: 2px 2px 19px 0px #64fccc;
+  color: #fff;
+  margin-left: 10px;
+}
+h3 {
+  color: #fff;
+  font-size: 20px;
+  font-family: "Montserrat", Sans-serif;
+}
+span {
+  color: #fff;
+  font-family: "Montserrat", Sans-serif;
+}
+.row.section-top {
+  margin-top: 80px;
+  font-family: "Montserrat", Sans-serif;
+}
+
+/* FOOTER */
+
+.design-font {
+  color: #786a7400;
+  font-family: "Syncopate", Sans-serif;
+  font-size: 59px;
+  font-weight: 600;
+  letter-spacing: 10px;
+  -webkit-text-stroke-width: 2px;
+  stroke-width: 2px;
+  -webkit-text-stroke-color: #80ff86;
+  stroke: #80ff86;
+  text-align: center;
+  font-family: "Montserrat", Sans-serif;
+}
+
+.header-footer {
+  color: #fff;
+  text-align: center;
+  font-family: "Montserrat", Sans-serif;
+  font-size: 32px;
+}
+.social-icons {
+  text-align: center !important;
+  font-family: "Montserrat", Sans-serif;
+}
+.header-foot1 {
+  margin-top: 200px !important;
+  font-family: "Montserrat", Sans-serif;
+}
+.telegram-icons {
+  font-size: 50px !important;
+  color: #fff !important;
+
+  font-family: "Montserrat", Sans-serif;
+}
+.twitter-icons {
+  margin-top: -50px;
+  font-size: 50px !important;
+  color: #fff !important;
+  margin-right: 30px !important;
+}
+/* .row.main-new-table {
+  margin-top: 70px;
+} */
+.input-field {
+  width: 100%;
+  background: none;
+  padding: 10px 20px;
+  border-radius: 7px;
+  border: 1px solid #4fc2a0 !important;
+  outline: #4fc2a0;
+  color: white;
+  margin-top: 2rem;
+}
+.stakedfield {
+  margin-top: 40px !important;
+}
+#staked-more {
+  width: none !important;
+}
+#staked-more1 {
+  margin-left: 0px !important;
+}
+.claim-bu1 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 1rem;
+  font-weight: 900;
+  background-color: #0c180ec7;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #64fccc;
+  border-radius: 7px 7px 7px 7px;
+  box-shadow: 2px 2px 19px 0px #64fccc;
+  color: #fff;
+  padding: 10px 20px;
+  height: 3rem;
+  margin-top: 2rem;
+  /* margin-left: 8px; */
+  width: 100%;
+}
+.claim-bu2 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 0.7rem;
+  font-weight: 900;
+  background-color: #0c180ec7;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #64fccc;
+  border-radius: 7px 7px 7px 7px;
+  box-shadow: 2px 2px 19px 0px #64fccc;
+  color: #fff;
+  padding: 5px 20px;
+  height: 2.5rem;
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 768px) {
+  .claim-bu1 {
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400 !important;
+    margin-bottom: 1rem;
+  }
+}
+.claim-bu3 {
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400 !important;
+  margin-bottom: 1rem;
+  font-family: "Montserrat", Sans-serif;
+  font-size: 1rem;
+  font-weight: 900;
+  background-color: #0c180ec7;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #64fccc;
+  border-radius: 7px 7px 7px 7px;
+  box-shadow: 2px 2px 19px 0px #64fccc;
+  color: #fff;
+  padding: 10px 20px;
+  height: 3rem;
+  margin-top: 2rem;
+}
+.radiers {
+  max-width: 400px;
+  display: block;
+  margin: auto;
+}
+p.table-para2 {
+  color: #fff;
+}
+h3.mintheadingname {
+  font-size: 20px;
+  text-align: center;
+  margin: 20px 0px;
+}
+@media screen and (min-width: 992px) {
+  button#staked-more\ unstaked {
+    margin-left: 1rem !important;
+  }
+}
+.row.main-new-table.main-new-table-choo {
+  margin-top: 4rem !important;
+}
+
+.info7 {
+  margin-top: 1.9rem;
+}
+
+button.offcanvasbutton {
+  display: none;
+}
+
+@media screen and (max-width: 992px) {
+  button.offcanvasbutton {
+    display: block;
+  }
+}
+img.image-dogoff {
+  max-width: 100px;
+  margin-left: -24px;
+}
